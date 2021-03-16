@@ -1,5 +1,5 @@
 # Introduction
-This is the kernel source code of Efficient Fine-Grained Visual-Text Search Using Adversarially-Learned Hash Codes, IEEE ICME 2021.
+This is the source code of Efficient Fine-Grained Visual-Text Search Using Adversarially-Learned Hash Codes, IEEE ICME 2021.
 ![avatar](data/framework.jpg)
 
 
