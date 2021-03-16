@@ -1,0 +1,2 @@
+download the scan data from: https://github.com/kuanghuei/SCAN
+download the rephrase, adversarial, and concept data from:  https://drive.google.com/drive/folders/1cM2-vTbSaJoQR_EUvkmVVW9iXy_rvDy3?usp=sharing
